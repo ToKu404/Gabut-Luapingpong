@@ -5,6 +5,7 @@
     ],
     "Lua.workspace.checkThirdParty": false,
     "Lua.diagnostics.globals": [
-        "checkCollision"
+        "checkCollision",
+        "drawScore"
     ]
 }
