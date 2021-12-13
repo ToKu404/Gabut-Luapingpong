@@ -4,7 +4,7 @@ function Player:load()
     -- Player Shape
     self.x = 50
     self.y = love.graphics.getHeight()/2
-    self.img = love.graphics.newImage("assets/1.png")
+    self.img = love.graphics.newImage("assets/player.png")
     self.width = self.img:getWidth()
     -- self.width = 20
     self.height = self.img:getHeight()

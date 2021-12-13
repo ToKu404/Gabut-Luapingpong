@@ -1,7 +1,7 @@
 AI = {}
 
 function AI:load()
-    self.img = love.graphics.newImage("assets/2.png")
+    self.img = love.graphics.newImage("assets/bot.png")
     -- self.width = 20
     -- self.height = 100
     self.width = self.img:getWidth()
